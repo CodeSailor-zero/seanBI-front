@@ -75,6 +75,6 @@ openapi --input http://localhost:8099/api/v2/api-docs --output ./generated --cli
 
 # 架构设计
 ## 项目架构图
-![seanBI架构图](https://github-program-show.oss-cn-shanghai.aliyuncs.com/seanBI%E6%9E%B6%E6%9E%84%E5%9B%BE.png?Expires=1746936373&OSSAccessKeyId=TMP.3Kq2WriM7iSyJPpneKWLSWqKwNDur2K9AAtxNdVJwFZfYJVG7mnMcZvPd2C7SGWPHFibsYju3mYbk1rML3BTFd6u7LczcH&Signature=6f%2FCxAI5Fx7qch1yVEvE0H7aOQs%3D "Magic Gardens")
+![seanBI架构图](https://github-program-show.oss-cn-shanghai.aliyuncs.com/seanBI%E6%9E%B6%E6%9E%84%E5%9B%BE.png?Expires=1747262277&OSSAccessKeyId=TMP.3Krp3QeajRUGjd5YLMAyt69LhUQQxPjQtZrSrAshU3iSP1LSELokhMrU5cuMa9Bm3YEJkYzSW3RGRWZoHr8XHwkoVYFPv9&Signature=UssrR0ZTu7ibwGVVZV9zxsvBF%2Bg%3D "Magic Gardens")
 ## RabbitMQ的架构图
 ![seanBIMQ架构图](https://github-program-show.oss-cn-shanghai.aliyuncs.com/SeanBIMQ%E6%9E%B6%E6%9E%84%E5%9B%BE.png?Expires=1746942251&OSSAccessKeyId=TMP.3Kq2WriM7iSyJPpneKWLSWqKwNDur2K9AAtxNdVJwFZfYJVG7mnMcZvPd2C7SGWPHFibsYju3mYbk1rML3BTFd6u7LczcH&Signature=EnGY6rLByw0p8W8zxcko5hjDiDQ%3D "Magic Gardens")
